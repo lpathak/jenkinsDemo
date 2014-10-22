@@ -12,7 +12,7 @@ class CreditCardTypeConverterSpec extends Specification {
           number  | type
           "4111111111111111" | "Visa"
           "3713XXXXXXX1013"  | "American Express"
-          "5555555555554444" | "Master Card"
+          "5555555555554444" | "Master Cards"
           "378734493671000"  | "American Express"
           "378282246310005"  | "American Express"
           "371449635398431"  | "American Express"
